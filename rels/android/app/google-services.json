@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "393332053422",
+    "firebase_url": "https://rexvin-leads-syste-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rexvin-leads-syste",
+    "storage_bucket": "rexvin-leads-syste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393332053422:android:60f6e7461bb70290d4643f",
+        "android_client_info": {
+          "package_name": "com.example.rels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2MEwukPAeImg-z83K6JGmomYF_y_DRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
